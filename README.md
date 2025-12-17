@@ -21,8 +21,14 @@ Runner after completing Roll-A-Ball.
 While I used free assets for this project, I focused entirely on programming fundamentals (movement, collisions, game states, code structure, etc.),
 and this experience gave me a solid foundation that I continued to build on in later projects (both finished and unfinished).
 
+
+
 ![alt text](https://github.com/ccgstudiogit/RollABall-Scripts/blob/main/Screenshots/RollABall_menu.jpg)
 
+
+
 ![alt text](https://github.com/ccgstudiogit/RollABall-Scripts/blob/main/Gifs/Player%20Loss.gif)
+
+
 
 ![alt text](https://github.com/ccgstudiogit/RollABall-Scripts/blob/main/Gifs/Player%20Win.gif)
