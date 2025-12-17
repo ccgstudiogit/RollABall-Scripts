@@ -23,7 +23,7 @@ and this experience gave me a solid foundation that I continued to build on in l
 
 
 
-![alt text](https://github.com/ccgstudiogit/RollABall-Scripts/blob/main/Screenshots/RollABall_menu.jpg)
+![alt text](https://github.com/ccgstudiogit/RollABall-Scripts/blob/main/Screenshots/RollABall_menu_sm.jpg)
 
 
 
